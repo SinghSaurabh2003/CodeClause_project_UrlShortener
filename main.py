@@ -3,7 +3,7 @@ import pyshorteners
 from tkinter import *
 #creating window of perticular size and colour
 window=Tk()
-window.title("URL Shortner")
+window.title("URL Shortener")
 window.geometry("400x300")
 window.configure(bg="red")
 #Function to short
